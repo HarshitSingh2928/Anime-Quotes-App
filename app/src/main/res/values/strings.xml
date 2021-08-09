@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Anime Quotes</string>
+    <string name="anime_quotes_by_harshit">Anime Quotes By Harshit</string>
+    <string name="anime">Anime</string>
+    <string name="character">Character</string>
+    <string name="quote">Quote</string>
+    <string name="click_button_to_get">Click button to get</string>
+</resources>
